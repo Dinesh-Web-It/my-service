@@ -29,24 +29,24 @@ const Navigation = () => {
         <h4>Adharva Mobiles</h4>
         </span>
          <ul className="list">
-          <li className="side-tasks" onClick={()=>{setmenu("home")}}><Link to="/"> <a href='/'>Home</a></Link></li>       
-          <li className="side-tasks" onClick={()=>{setmenu("features")}}><Link to="/features"> <a href='/'>Features</a></Link> </li>
-          <li className="side-tasks" onClick={()=>{setmenu("products")}}><Link to="/products"> <a href='/' >Products</a></Link> </li>
-          <li className="side-tasks" onClick={()=>{setmenu("accessories")}}><Link to="/accessories"> <a href='/' >Accessories</a></Link> </li>
-          <li className="side-tasks" onClick={()=>{setmenu("service")}}><Link to="/service"> <a href='/' >Service</a></Link> </li>
-          <li className="side-tasks" onClick={()=>{setmenu("aboutus")}}><Link to="/aboutus"> <a href='/' >Aboutus</a></Link> </li>
-          <li  id='btn' onClick={()=>{setmenu("/login")}}><Link to="/login">< a id='a' href='/' >Login</a></Link> </li>
+          <li className="side-tasks" onClick={()=>{setmenu("home")}}><Link to="/"> <a >Home</a></Link></li>       
+          <li className="side-tasks" onClick={()=>{setmenu("features")}}><Link to="/features"> <a >Features</a></Link> </li>
+          <li className="side-tasks" onClick={()=>{setmenu("products")}}><Link to="/products"> <a  >Products</a></Link> </li>
+          <li className="side-tasks" onClick={()=>{setmenu("accessories")}}><Link to="/accessories"> <a  >Accessories</a></Link> </li>
+          <li className="side-tasks" onClick={()=>{setmenu("service")}}><Link to="/service"> <a >Service</a></Link> </li>
+          <li className="side-tasks" onClick={()=>{setmenu("aboutus")}}><Link to="/aboutus"> <a  >Aboutus</a></Link> </li>
+          <li  id='btn' onClick={()=>{setmenu("/login")}}><Link to="/login">< a id='a' >Login</a></Link> </li>
           <li className="bar" onClick={sidebar}><a id='icon'><BiMenuAltRight /></a></li>
         </ul>
         <ul className="sidebar">
-          <li className='cross' onClick={menubar}><a href="menubar"><RxCross2 /></a></li>
-          <li className="tasks" onClick={()=>{setmenu("home")}}><Link to="/"> <a href='/'>Home</a></Link> </li>
-          <li className="tasks" onClick={()=>{setmenu("features")}}><Link to="/features"> <a href='/'>Features</a></Link> </li>
-          <li className="tasks" onClick={()=>{setmenu("products")}}><Link to="/products"> <a href='/' >Products</a></Link> </li>
-          <li className="tasks" onClick={()=>{setmenu("accessories")}}><Link to="/accessories"> <a href='/' >Accessories</a></Link> </li>
-          <li className="tasks" onClick={()=>{setmenu("service")}}><Link to="/service"><a href='/' >Service</a></Link>  </li>
-          <li className="tasks" onClick={()=>{setmenu("aboutus")}}><Link to="/aboutus"><a href='/' >Aboutus</a></Link>  </li>
-          <li className="tasks" onClick={()=>{setmenu("login")}}><Link to="/login"> <a href='/' >Login</a></Link> </li>
+          <li className='cross' onClick={menubar}><a ><RxCross2 /></a></li>
+          <li className="tasks" onClick={()=>{setmenu("home")}}><Link to="/"> <a >Home</a></Link> </li>
+          <li className="tasks" onClick={()=>{setmenu("features")}}><Link to="/features"> <a >Features</a></Link> </li>
+          <li className="tasks" onClick={()=>{setmenu("products")}}><Link to="/products"> <a  >Products</a></Link> </li>
+          <li className="tasks" onClick={()=>{setmenu("accessories")}}><Link to="/accessories"> <a >Accessories</a></Link> </li>
+          <li className="tasks" onClick={()=>{setmenu("service")}}><Link to="/service"><a  >Service</a></Link>  </li>
+          <li className="tasks" onClick={()=>{setmenu("aboutus")}}><Link to="/aboutus"><a  >Aboutus</a></Link>  </li>
+          <li className="tasks" onClick={()=>{setmenu("login")}}><Link to="/login"> <a  >Login</a></Link> </li>
           </ul>
       </div>
     </nav>
