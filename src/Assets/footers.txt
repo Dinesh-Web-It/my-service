@@ -1,0 +1,61 @@
+<div class="container7">
+                        <div class="footer1">
+                            <ul>
+                                <li>
+                                    <h3>Services</h3>
+                                </li>
+                                <li><a href="#">Sell Phones</a></li>
+                                <li><a href="#">Mobile Repair</a></li>
+                                <li><a href="#">Laptop Repair</a></li>
+                                <li><a href="#">Photo Cases</a></li>
+                                <li><a href="#">Mobile Cases</a></li>
+                                <li><a href="#">Buy Secondhand Phones</a></li>
+                                <li><a href="#">Temperglass Pasting</a></li>
+                                <li><a href="#">Mobile Glass Changing</a></li>
+                            </ul>
+                        </div>
+                        <div class="footer2">
+                            <ul>
+                                <li>
+                                    <h3>Business</h3>
+                                </li>
+                                <li><a href="#">Mobile Services</a></li>
+                                <li><a href="#">Mobile Accessories</a></li>
+                                <li><a href="#">Secondhand Mobiles</a></li>
+                                <li><a href="#">Portraite Drawings</a></li>
+                                <li><a href="#">Photography</a></li>
+                                <li><a href="#">Craft Items</a></li>
+                            </ul>
+                        </div>
+                        <div class="footer3">
+                            <ul>
+                                <li>
+                                    <h3>Sell Items</h3>
+                                </li>
+                                <li><a href="#">All Temperglass</a></li>
+                                <li><a href="#">Phone Cases</a></li>
+                                <li><a href="#">Charger</a></li>
+                                <li><a href="#">All Cables</a></li>
+                                <li><a href="#">Earphones</a></li>
+                                <li><a href="#">OTG Connectors</a></li>
+                                <li><a href="#">Neck Band</a></li>
+                                <li><a href="#">LED Light</a></li>
+                                <li><a href="#">Secondhand Mobiles</a></li>
+                                <li><a href="#">Axe Cables</a></li>
+                            </ul>
+                        </div>
+                        <div class="footers4">
+                            <ul>
+                                <li>
+                                    <h3>Help & Support</h3>
+                                </li>
+                                <li><a href="#">Contact Us</a></li>
+                                <li><a href="#">Warrenty Policy</a></li>
+                                <li><a href="#">Refund Policy</a></li>
+                                <li><a href="#">Privacy Policy</a></li>
+                                <li><a href="#">Terms & Conditions</a></li>
+                                <li><a href="#">More Info</a></li>
+                                <li><a href="#">FAQ</a></li>
+                            </ul>
+                        </div>
+                    </div>

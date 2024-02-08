@@ -1,0 +1,106 @@
+.container2 {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    background-image: linear-gradient(to bottom, var(--tw-gradient-stops));
+}
+
+.content {
+    display: flex;
+    top: 1rem;
+    justify-content: space-evenly;
+    align-items: center;
+    box-sizing: border-box;
+    margin-top: 100px;
+    background-color: rgb(247, 247, 247);
+    border-radius: 20px;
+    box-shadow: 0px 0px 10px 1px rgb(236, 232, 232);
+}
+
+.main {
+    display: grid;
+    padding: 1rem;
+    justify-content: space-evenly;
+}
+
+.text {
+    display: flex;
+    position: relative;
+    margin-left: 1rem;
+    align-items: center;
+    padding: 1rem;
+    font-size: 2.3rem;
+}
+
+.keys-con {
+    display: grid;
+    align-items: center;
+    grid-template-columns: repeat(1, 1fr);
+    position: relative;
+    list-style: none;
+    padding: 1rem;
+}
+
+.photo img {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    left: 1.5rem;
+    padding: 1rem;
+}
+
+.keys-con ul{
+    display: grid;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.keys-con li {
+    padding: 0.5rem;
+}
+
+@media (width < 800px){
+    .content{
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+    }
+    .container2{
+        display: flex;
+        padding: 1rem;
+        justify-content: space-evenly;
+        align-items: center;
+    }
+    .main{
+        display: grid;
+        justify-content: space-evenly;
+        padding: 1rem;
+    }
+    .photo img{
+        max-width: 350px;
+        min-width: 100px;
+        padding: 0;
+    }
+}
+@media (width < 650px){
+    .content{
+        display: grid;
+        padding: 1rem;
+        grid-template-columns: repeat(1,1fr);
+    }
+    .photo{
+        display: grid;
+        justify-content: space-evenly;
+        align-items: center;
+    }
+}
+
+@media (width < 500px){
+    .content{
+        display: grid;
+        justify-content: space-evenly;
+    }
+    .photo img{
+        max-width: 300px;
+    }
+}

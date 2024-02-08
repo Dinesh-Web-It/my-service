@@ -1,0 +1,11 @@
+                <li class="brand-log"><a href="#"><img src="apple.jpg" alt="apple"></a></li>
+                <li class="brand-log"><a href="#"><img src="samsung.jpg" alt="mi"></a></li>
+                <li class="brand-log"><a href="#"><img src="oneplus.jpg" alt="oneplus"></a></li>
+                <li class="brand-log"><a href="#"><img src="mi.jpg" alt="mi"></li></a>
+                <li class="brand-log"><a href="#"><img src="oppo.jpg" alt="oppo"></li></a>
+                <li class="brand-log"><a href="#"><img src="vivo.jpg" alt="vivo"></li></a>
+                <li class="brand-log"><a href="#"><img src="realme.jpg" alt="realme"></li></a>
+                <li class="brand-log"><a href="#"><img src="nokia.jpg" alt="nokia"></a></li>
+                <li class="brand-log"><a href="#"><img src="motorola.jpg" alt="motorola"></li></a>
+                <li class="brand-log"><a href="#"><img src="iqoo.jpg" alt="iqoo"></a></li>
+                <li class="brand-log"><a href="#"><img src="asus.jpg" alt="asus"></a></li>
